@@ -17,3 +17,5 @@ public class JavaApplication37 {
     }
     
 }
+
+// https://www.geeksforgeeks.org/arrays-in-java/
